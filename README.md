@@ -1,3 +1,7 @@
+## Repo review Augh 2024 decision: Keep
+
+This is used by root to look up emails in Mandrill. It might be able to be replaced by calls to Rumi, but that effort has not been scoped or prioritized at this time.
+
 # mandrill-api-ruby
 
 A Ruby API client for the Mandrill email as a service product.
